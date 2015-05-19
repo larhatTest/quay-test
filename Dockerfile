@@ -4,4 +4,4 @@ MAINTAINER Roma Sokolov <sokolov.r.v@gmail.com>
 
 RUN echo "hello, docker"
 RUN echo "nonext"
-RUN echo "fhuh shora sh"
+RUN echo "disp"
